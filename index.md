@@ -4,4 +4,4 @@ title: Welcome!
 ---
 
 # Hello, World!
-Hello
+Hello World
