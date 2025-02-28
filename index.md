@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Welcome!
+title: 
 ---
 
-# Hello, World!
-Hello World
+# Under Construction
